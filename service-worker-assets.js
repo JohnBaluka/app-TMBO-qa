@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "C1Q7Z1Pv",
+  "version": "hkUFOcfK",
   "assets": [
     {
       "hash": "sha256-sV7FOmO5xSEKagjppW5DHj5oNqm0z1XtpbYbl5WuLkA=",
@@ -874,7 +874,7 @@ self.assetsManifest = {
       "url": "_framework/ja/Radzen.Blazor.resources.e8zh2k4nx4.wasm"
     },
     {
-      "hash": "sha256-8gGOCCtuAX24srFF20qOrkKth4OCL4V2xzS/u4bc6rE=",
+      "hash": "sha256-l3khRfNv5FVyW6J4lQcBFuoFhA3LiFnXg2xS0L0zKJA=",
       "url": "appsettings.json"
     },
     {
